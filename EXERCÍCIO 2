@@ -1,0 +1,4 @@
+EXERCÍCIO 2
+
+Por que não é recomendável executar operações custosas e longas dentro de uma rotina ISR? 
+Resposta: Pode gerar um atraso no programa.
