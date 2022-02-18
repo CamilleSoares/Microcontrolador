@@ -1,0 +1,6 @@
+EXERCÍCIO 1
+
+Qual a principal vantagem em utilizar uma interrupção ao invés de checar periodicamente o status de uma GPIO, por exemplo.
+
+Interrupção é uma funcionalidade no microcontrolador que altera o fluxo do programa na ocorrência de eventos específicos, que são configurados pelo desenvolvedor.
+Quando utilizamos interrupções, obtemos respostas mais rápidas, melhorando a eficiência do programa.
